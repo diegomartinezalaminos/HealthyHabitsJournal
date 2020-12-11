@@ -9,6 +9,9 @@ Para acceder al diario virtual necesitarás poner una contraseña para verificar
 que eres su propietario a demás de darse de alta.
 La aplicación almacenará la información de cada usuario en una bbdd evitando
 así perder la información cunado cambiamos de móvil,se rompa etc.
-El entorno de la app será minimalista con dos temas (dark, light).
 
 Esta app va destinado a 3 grupos de usuarios:
+
+Estudiates o trabajadores que quieran ser más eficientes.
+Personas que padezcan depresion (Les ayuda a mantener un orden)
+Personas que unicamente quieran tener un diario oline
