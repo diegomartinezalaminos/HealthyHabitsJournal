@@ -15,3 +15,6 @@ Esta app va destinado a 3 grupos de usuarios:
 * Estudiates o trabajadores que quieran ser más eficientes.
 * Personas que padezcan depresion (Les ayuda a mantener un orden)
 * Personas que unicamente quieran tener un diario oline
+
+#### He tenido un problema con el repositorio este es el bueno:
+https://github.com/diegomartinezalaminos/HealthyHabitsJournalV2
