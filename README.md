@@ -12,6 +12,6 @@ así perder la información cunado cambiamos de móvil,se rompa etc.
 
 Esta app va destinado a 3 grupos de usuarios:
 
-Estudiates o trabajadores que quieran ser más eficientes.
-Personas que padezcan depresion (Les ayuda a mantener un orden)
-Personas que unicamente quieran tener un diario oline
+* Estudiates o trabajadores que quieran ser más eficientes.
+* Personas que padezcan depresion (Les ayuda a mantener un orden)
+* Personas que unicamente quieran tener un diario oline
